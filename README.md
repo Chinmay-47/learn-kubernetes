@@ -3,7 +3,7 @@
 <br>
 
 ## About
-As a Data Scientist, I have been working with Docker to deploy ML applications at my company for some time now. 
+As a Data Scientist, I have been working with Docker to deploy ML applications for some time now. 
 Having heard and read about Kubernetes as a technology to scale such containerized solutions, 
 I decided to learn more about it.
 

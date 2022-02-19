@@ -28,4 +28,5 @@ I would highly recommend checking them out:
 
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)

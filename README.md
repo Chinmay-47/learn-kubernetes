@@ -9,6 +9,16 @@ I decided to learn more about it.
 
 This repository is to document my learnings about Kubernetes. 
 
+<br>
+
+## Table of Contents
+Feel free to read my notes about the topics:
+
+|      |   Topic   |
+|------|-----------|
+|1.| [About Kubernetes](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/about_kubernetes.md) |
+
+
 
 <br>
 

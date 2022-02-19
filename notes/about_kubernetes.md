@@ -1,8 +1,6 @@
 ### About Kubernetes
 
 <br>
-<hr>
-<br>
 
 #### Introduction
 

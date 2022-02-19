@@ -1,4 +1,4 @@
-# Complete Notes
+# Kubernetes Notes
 
 Notes for all topics in order of progression.
 

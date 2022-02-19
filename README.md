@@ -9,6 +9,9 @@ I decided to learn more about it.
 
 This repository is to document my learnings about Kubernetes. 
 
+A compilation of all the notes that I made while learning can be found 
+[here](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/all_notes.md) as a markdown.
+
 <br>
 
 ## Table of Contents

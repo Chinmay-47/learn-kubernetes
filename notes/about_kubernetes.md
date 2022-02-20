@@ -1,3 +1,7 @@
+<img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png">
+
+<br>
+
 ### About Kubernetes
 
 <br>

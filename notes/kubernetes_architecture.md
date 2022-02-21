@@ -31,7 +31,7 @@ which essentially keeps track of what's happening in the cluster
 - The master node also runs a scheduler, responsible for scheduling containers on the worker nodes 
 based on workload and available server resources on each node
 - The master node also has an etcd key value storage, to hold the current state of the cluster and configurations
-- The backups and restoarations are achieved from this etcd storage
+- The backups and restorations are achieved from this etcd storage
 
 <br>
 <hr>

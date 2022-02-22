@@ -19,7 +19,7 @@ Feel free to read my notes about the topics:
 
 - [About Kubernetes](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/about_kubernetes.md)
 - [Kubernetes Architecture](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/kubernetes_architecture.md)
-
+- [Node and Pod](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/node_pod.md)
 
 
 <br>

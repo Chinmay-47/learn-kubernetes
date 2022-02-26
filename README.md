@@ -21,6 +21,7 @@ Feel free to read my notes about the topics:
 - [Kubernetes Architecture](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/kubernetes_architecture.md)
 - [Node and Pod](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/node_pod.md)
 - [Service and Ingress](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/service_ingress.md)
+- [ConfigMap and Secrets](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/configmap_secrets.md)
 
 
 <br>

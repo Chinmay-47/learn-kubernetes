@@ -22,6 +22,7 @@ Feel free to read my notes about the topics:
 - [Node and Pod](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/node_pod.md)
 - [Service and Ingress](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/service_ingress.md)
 - [ConfigMap and Secret](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/configmap_secret.md)
+- [Volume](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/volume.md)
 
 
 <br>

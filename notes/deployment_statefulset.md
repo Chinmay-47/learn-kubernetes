@@ -23,7 +23,6 @@
 - However, deploying database applications using StatefulSets in Kubernetes can often be tedious
 - Hence, it is a common practice to host databases outside the Kubernetes clusters
 
-
 <br>
 <hr>
 <br>

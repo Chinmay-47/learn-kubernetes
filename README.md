@@ -24,6 +24,7 @@ Feel free to read my notes about the topics:
 - [ConfigMap and Secret](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/configmap_secret.md)
 - [Volume](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/volume.md)
 - [Deployment and StatefulSet](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/deployment_statefulset.md)
+- [Kubernetes Configuration](https://github.com/Chinmay-47/learn-kubernetes/blob/main/notes/kubernetes_config.md)
 
 
 <br>
